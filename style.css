@@ -95,9 +95,10 @@ nav h1 [class*="fa-"]{
     
 }
 .wl{
-    height: 100vh;
+    height: 90vh;
     display:flex;
-    background-image: url(./svg-icons/hacking-md.jpg);
+    /* background-image: url(./svg-icons/code-1.png); */
+    background-color: #171321;
 
     background-repeat: no-repeat;
     background-size: cover;
